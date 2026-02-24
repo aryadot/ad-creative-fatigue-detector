@@ -1,0 +1,1 @@
+# ad-creative-fatigue-detector
