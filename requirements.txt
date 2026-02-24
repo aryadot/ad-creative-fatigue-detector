@@ -1,4 +1,3 @@
-cat > requirements.txt << 'EOF'
 pandas
 numpy
 scikit-learn
@@ -8,4 +7,3 @@ streamlit==1.32.0
 matplotlib
 seaborn
 altair==4.2.2
-EOF
