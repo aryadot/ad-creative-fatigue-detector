@@ -1,9 +1,11 @@
+cat > requirements.txt << 'EOF'
 pandas
 numpy
 scikit-learn
-xgboost
+xgboost==2.0.3
 shap
 streamlit==1.32.0
 matplotlib
 seaborn
 altair==4.2.2
+EOF
